@@ -1,4 +1,8 @@
-## Put comments here that give an overall description of what your
+## This script is developed according to the Coursera course requirements of
+## R Programming -- Programming Assignment 2: Lexical Scoping
+## ADD BFIEF DESCRIPTION of WHAT thees
+## functions do
+## functions do
 ## functions do
 
 ## Write a short comment describing this function
